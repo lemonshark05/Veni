@@ -27,9 +27,7 @@ The following **additional** features are implemented:
 * [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
-
-https://github.com/lemonshark05/VeniVici/assets/100770743/dbe24f71-7acf-4da2-b20b-bbb2ccfe61f5
-
+https://github.com/lemonshark05/Veni/assets/100770743/78eb4bc6-cf2b-402a-9353-a96e7aee2b46
 ## Notes
 
 Describe any challenges encountered while building the app.
